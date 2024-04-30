@@ -1,0 +1,12 @@
+{
+  "name": "backendwithjs",
+  "version": "1.0.0",
+  "description": " a backend project with js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon sc/index.js"
+  },
+  "keywords": ["javascript","backend"],
+  "author": "Omkar Londhe",
+  "license": "ISC"
+}
